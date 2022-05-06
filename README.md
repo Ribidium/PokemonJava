@@ -1,0 +1,4 @@
+# PokemonJava
+
+
+Basic Pokemon Game
